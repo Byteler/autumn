@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "gf-Mobirise3-ver105",
-    "currentPage": "index.html",
+    "currentPage": "о_нас.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2942,7 +2942,7 @@
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/knotted-untreated-wood-1598x10666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/knotted-untreated-wood-1598x10669.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -3276,7 +3276,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/besedka-ostekl6gr6m-6-600x4507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/besedka-ostekl6gr6m-6-600x45010.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/besedka-ostekl6gr6m-6-600x450-600x450.jpg",
                 "alt": "Беседка, Токсово, 2012",
                 "title": "",
@@ -3408,7 +3408,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/interer-grilbesedki6-6-600x4508.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interer-grilbesedki6-6-600x45011.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/interer-grilbesedki6-6-600x450-600x450.jpg",
                 "alt": "Гриль \"Суомо 90\" с расширенными столиками с откидными досками",
                 "title": "",
@@ -4259,7 +4259,7 @@
               "active": true,
               "link": "",
               "size": "70",
-              "color": "#c1c1c1"
+              "color": "#736e6e"
             }
           },
           "media2": {
@@ -4271,7 +4271,7 @@
               "active": true,
               "link": "",
               "size": 70,
-              "color": "#c1c1c1"
+              "color": "#736e6e"
             }
           },
           "media3": {
@@ -4283,7 +4283,7 @@
               "active": true,
               "link": "",
               "size": "70",
-              "color": "#c1c1c1"
+              "color": "#736e6e"
             }
           },
           "media4": {
@@ -4295,7 +4295,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#c1c1c1"
+              "color": "#736e6e"
             }
           },
           "title1": "лет на рынке столярных изделий",
